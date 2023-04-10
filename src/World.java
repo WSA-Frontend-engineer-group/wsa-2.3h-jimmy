@@ -4,9 +4,7 @@ import sprite.Hero;
 import sprite.Sprite;
 import sprite.Water;
 
-import java.util.Arrays;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 public class World {
